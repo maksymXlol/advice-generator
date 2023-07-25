@@ -1,0 +1,28 @@
+:root {
+  --Light-Cyan: hsl(193, 38%, 86%);
+  --Neon-Green: hsl(150, 100%, 66%);
+  --Grayish-Blue: hsl(217, 19%, 38%);
+  --Dark-Grayish-Blue: hsl(217, 19%, 24%);
+  --Dark-Blue: hsl(218, 23%, 16%);
+}
+
+body {
+  background-color: var(--Dark-Blue);
+}
+
+.main {
+  background-color: var(--Dark-Grayish-Blue);
+  display: flex;
+  flex-direction: column;
+}
+
+.advice-number {
+  color: var(--Neon-Green);
+}
+.advice-text {
+  color: var(--Light-Cyan);
+}
+
+.img {
+  background-color: var(--Neon-Green);
+}
