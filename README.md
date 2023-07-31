@@ -13,3 +13,5 @@ Your users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ## Preview
+
+[click preview] (https://maksymxlol.github.io/advice-generator/)
